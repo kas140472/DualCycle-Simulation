@@ -23,22 +23,3 @@ The various processes involved are explained below:<br>
 <li>Constant volume heat rejection phase, where the heat is rejected to the surroundings as the piston is at the bottom dead centre. The exhaust gases escape through the exhaust valve.</li>
 <br>
 In this experiment, the Dual cycle is demonstrated so that the user can understand how the P-V graph changes as various pressure and volume parameters change.
-
-#### Developer Details
-
-<b>Name of Developer | <b> K V Gangadharan
-:--|:--|
-<b> Institute | <b> National Institute of Technology Karnataka, Surathkal
-<b> Email id|   <b> kvganga@nitk.ac.in
-<b> Department | <b> Mechanical Engineering
-
-#### Contributors List
-
-Kriti Shukla | NITK <br>
-Drishika Nadella | NITK <br>
-Sooraj Acharya | NITK <br>
-Rohit Kushwaha | NITK <br>
-Ranjan Tunga S | NITK <br>
-Akshaya | NITK <br>
-Anusha B Salian | NITK <br>
-Vishwas A S | NITK <br>
