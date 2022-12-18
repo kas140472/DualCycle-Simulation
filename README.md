@@ -7,6 +7,6 @@ The main objective of the experiment is to demonstrate the change in P-v graph o
 <h5> Link: </h5>
 Virtual Labs: https://solve-nitk.github.io/vlab-phase4-mechanical/thermodynamics/exp-dual-cycle/
 <br>
-Direct Simulation Link (Github): 
+Direct Simulation Link (Github): https://kas140472.github.io/DualCycle-Simulation/
 <br><br>
 Refer the 'Documentation' folder to know more.
