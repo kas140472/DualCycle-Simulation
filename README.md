@@ -9,4 +9,4 @@ Virtual Labs: https://solve-nitk.github.io/vlab-phase4-mechanical/thermodynamics
 <br>
 Direct Simulation Link (Github): https://kas140472.github.io/DualCycle-Simulation/
 <br><br>
-Refer the 'Documentation' folder for documentation details.
+Refer to 'Documentation' folder for documentation details.
